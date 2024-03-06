@@ -1,0 +1,6 @@
+@ProjPlantunTest_HostAddress = http://localhost:5162
+
+GET {{ProjPlantunTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
